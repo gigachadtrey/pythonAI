@@ -1,0 +1,5 @@
+windows-curses
+curses
+subprocess
+tkinter
+google-generativeai
